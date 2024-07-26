@@ -139,7 +139,7 @@ img{
 
 .header-img {
     text-align: center;
- background-image: url(/fondo-pagina/aads.jpeg);
+ background-image: url(fondo-pagina/aads.jpeg);
  height: 750px;
  background-size: cover;
  display: flex;
