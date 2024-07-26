@@ -1032,4 +1032,16 @@ height: 14px;
         background-color: #FDB9B6;
         
     }
+    
+    .add-btn {
+        border: none;
+        background-color:  #038c7f;
+        color: #F2F2F2;
+        font-size: 15px;
+        cursor: pointer;
+        padding: 5px 8px;
+        border-radius: 5px;
+        margin-left: 50px;
+       
+    }
 }
