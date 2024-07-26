@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function () {
  
     function generateWhatsAppMessage() {
         
-        const phoneNumber = '2994016833';
+        const phoneNumber = '2995889558';
 
         
         let message = 'Hola, quiero realizar un pedido con los siguientes productos:\n\n';
