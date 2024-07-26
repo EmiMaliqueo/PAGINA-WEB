@@ -15,7 +15,7 @@ async function cargarProductos() {
             productDiv.classList.add('product');
             productDiv.id = producto.category.toLowerCase();
             const productLink = document.createElement('a');
-            productLink.href = `/producto${producto.id}.html`;
+            productLink.href = `producto${producto.id}.html`;
             const productImg = document.createElement('img');
             productImg.src = producto.image;
             productImg.alt = producto.name;
